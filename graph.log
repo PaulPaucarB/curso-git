@@ -1,0 +1,31 @@
+*   d08a0ed Merge branch 'main' of https://github.com/PaulPaucarB/curso-git
+|\  
+| *   564294c Resolviendo conflicto en estaciones del año fecha de inicio de estaciones
+| |\  
+* | \   dd2cb2b Agreagndo 2 parrafos
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 505240a Agregando estaciones del año
+* | d6aa058 Agregando estaciones del año con fecha de inicio
+|/  
+*   f503a7f Resolviendo conflicto MERGE main/html en el documento index.html
+|\  
+| * 2567612 Agregando index.js al index.html
+* | c7a79f5 Agreagnado un archivo style.css a index.html
+* | ae8414f Agregando style.css al index css
+* |   bf20374 Merge branch 'js'
+|\ \  
+| * | 068955e Creando index.js
+* | | 83a07ad Creando style.css
+| |/  
+|/|   
+* | c5ebdc5 Creando Archivo index.html
+|/  
+* 07c4505 Ignorando archivos .exe
+* c4477b3 prueba para ver si aun estoy coenctado
+* a350739 Creando licensia del repositorio
+* bc01cd3 Agregando contenido a mi readme
+* e4bc5be Agregando contenido inicial al README
+* 6abc18b primer commit 😂

@@ -1,0 +1,118 @@
+commit d08a0ed7ffce6ad21f6589a139c4c7894b5d1800
+Merge: dd2cb2b 564294c
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Wed Oct 11 13:03:25 2023 -0500
+
+    Merge branch 'main' of https://github.com/PaulPaucarB/curso-git
+
+commit dd2cb2b5842c9875a9989bfdce0c3ce236bd35f5
+Merge: d6aa058 505240a
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Wed Oct 11 12:50:49 2023 -0500
+
+    Agreagndo 2 parrafos
+
+commit 564294cce8e5fb8a156c0cfa46b782ff72932d3b
+Merge: d6aa058 505240a
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Wed Oct 11 12:50:49 2023 -0500
+
+    Resolviendo conflicto en estaciones del año fecha de inicio de estaciones
+
+commit d6aa058ebc277b2888b49bf86f37d7f1101244ae
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Wed Oct 11 12:22:11 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 505240a4cf2b8d21dae614e2a0575a7b66d2739e
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Wed Oct 11 12:22:11 2023 -0500
+
+    Agregando estaciones del año
+
+commit f503a7f1132ddaf1f30c580d6dbc7943c40b2805
+Merge: c7a79f5 2567612
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Mon Oct 9 00:56:59 2023 -0500
+
+    Resolviendo conflicto MERGE main/html en el documento index.html
+
+commit c7a79f5aecbd2f46cc2c665766f80715786d0049
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Mon Oct 9 00:47:03 2023 -0500
+
+    Agreagnado un archivo style.css a index.html
+
+commit 25676128cf46348838cc622ed16d4888f04e3372
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Mon Oct 9 00:43:12 2023 -0500
+
+    Agregando index.js al index.html
+
+commit ae8414fabda495214a5dc82c0e8463bbe719dc33
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Mon Oct 9 00:37:02 2023 -0500
+
+    Agregando style.css al index css
+
+commit bf203741553476e95fc358929b44ea1dfff94338
+Merge: 83a07ad 068955e
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Mon Oct 9 00:22:05 2023 -0500
+
+    Merge branch 'js'
+
+commit 068955e029eff0945633de3885ae38a024dbf374
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Sun Oct 8 20:27:51 2023 -0500
+
+    Creando index.js
+
+commit 83a07ada9e87b8990a4fe752a8300f78477173a9
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Sun Oct 8 20:22:13 2023 -0500
+
+    Creando style.css
+
+commit c5ebdc5de8e9f0c79dd4fb7900b36a5127ac6b75
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Sun Oct 8 20:13:12 2023 -0500
+
+    Creando Archivo index.html
+
+commit 07c45051853980b89d74c3e625228fb6f80c5105
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Sun Oct 8 18:55:13 2023 -0500
+
+    Ignorando archivos .exe
+
+commit c4477b39d28504c398d7190914ee465d4b6f6e9b
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Sun Oct 8 17:42:41 2023 -0500
+
+    prueba para ver si aun estoy coenctado
+
+commit a3507392343113ab65476f0d0050d5fc698e5efb
+Author: PaulPaucarB <114895329+PaulPaucarB@users.noreply.github.com>
+Date:   Fri Oct 6 20:59:50 2023 -0500
+
+    Creando licensia del repositorio
+
+commit bc01cd308a97658c96e0f2c34098a8f7de43b3fe
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Fri Oct 6 20:47:42 2023 -0500
+
+    Agregando contenido a mi readme
+
+commit e4bc5be60314d94202925cdf6805bb1132356617
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Fri Oct 6 13:32:09 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 6abc18b88ef3bfcdc8fef211efe793e145603b5f
+Author: Paul Paucar <paulpaucarb@gmail.com>
+Date:   Fri Oct 6 13:22:43 2023 -0500
+
+    primer commit 😂
